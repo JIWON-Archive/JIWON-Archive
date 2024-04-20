@@ -12,14 +12,16 @@
 # Name of website
 title: JIWON-Archive
 # Your name to show in the footer
-author: Some Person
+author: JIWON
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Category:
+    - TroubleShooting: "category/troubleshooting"
+    - Linux: "category/CentOS"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
